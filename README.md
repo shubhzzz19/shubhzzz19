@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Lohar</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhzzz19&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzzz19" /> </p>
-
-- 📫 How to reach me **shubham3458@gmail.com**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhzzz19&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzzz19" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,8 +56,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhzzz19&show_icons=true&locale=en&layout=compact" alt="shubhzzz19" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket363&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhzzz19&show_icons=true&locale=en" alt="shubhzzz19" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanket363&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhzzz19&" alt="shubhzzz19" /></p>
