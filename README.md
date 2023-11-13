@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Lohar</h1>
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif""/> 
+   <img src="https://github.com/shubhzzz19/shubhzzz19/assets/73218792/45a6c8ec-2eef-42ee-9a81-cc8c4366ced5" alt="shubhzzz19" />
 </p>
 <h3 align="center">I'm DevOps Engineer</h3>
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" alt="shubhzzz19" /> </p>
