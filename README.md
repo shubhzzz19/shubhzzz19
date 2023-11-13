@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Lohar</h1>
+<p align="center"> 
+  <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="shubhzzz19" height="220" width="260" /> </p>
 <h3 align="center">DevOps Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhzzz19&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzzz19" /> </p>
@@ -56,7 +58,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhzzz19&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhzzz19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhzzz19&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
