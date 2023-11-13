@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Lohar</h1>
 <p align="center"> 
    <img src="https://github.com/shubhzzz19/shubhzzz19/assets/73218792/45a6c8ec-2eef-42ee-9a81-cc8c4366ced5" alt="shubhzzz19" />
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhzzz19&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzzz19" /> </p>
 </p>
 <h3 align="center">I'm DevOps Engineer</h3>
 <img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" alt="shubhzzz19" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhzzz19&label=Profile%20views&color=0e75b6&style=flat" alt="shubhzzz19" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
